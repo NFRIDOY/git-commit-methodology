@@ -1,8 +1,9 @@
 # git-commit-methodology
-git-commit-methodology
-
+# Git Commit useful links
+- [Gitmoji](https://gitmoji.dev) : Icon for commit message
+  
 # Commit Message Convention
-## Rule: 
+## Rules: 
 Follow This rule:
 ```
 <Icon>[<What Happend>]: <File Path>: <File Name>: <Description>
