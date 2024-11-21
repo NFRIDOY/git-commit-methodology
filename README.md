@@ -4,7 +4,7 @@
   
 # Commit Message Convention
 ## Rules: 
-**1. Follow This rule:**
+**1. Follow this rule:**
 ```
 <Icon>[<What Happend>]: <File Path>: <File Name>: <Description>
 ```
