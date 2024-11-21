@@ -12,3 +12,8 @@ Example:
 ```
 ✨[Added]: website//package: model: `included`, `excluded` add to as model property
 ```
+
+## Icon Rules: 
+### [Added] => ✨
+### [Updated] => ✅
+### [Fix] => 🐛
