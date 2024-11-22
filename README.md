@@ -22,9 +22,27 @@ Example:
 
 ## Icon Rules:
 
+| Icon Type          | Example                                               |
+| ------------------ | ----------------------------------------------------- |
+| ✨[Added]:         | `✨[Added]: module/counter: counterSlice: Btns `      |
+| ✅[Updated]:       | ✅[Updated]:module/counter: counterSlice: update Btns |
+| 🐛[Fix]:           | 🐛[Fix]: module/counter: counterSlice: fix counting   |
+| 💄[UI]:            | Update UI                                             |
+| 🚧[Processing]:    | Feature or Something in under construction            |
+| 🚨[Error]:         | Feature or Something in under construction            |
+| 🔥[Remove]:        | Feature or Something in under construction            |
+| ⚡️[Improve]:      | Feature or Something in under construction            |
+| 🔧[Config]:        | Feature or Something in under construction            |
+| ✏️[Fix]:           | Feature or Something in under construction            |
+| ♻️[Refactor]:      | Feature or Something in under construction            |
+| 📝[Documentation]: | Feature or Something in under construction            |
+| 🚀[Deploy]:        | Deploy                                                |
+
+## Icon Rules Table Format:
+
 | Icon Type          | Description                                | Example                                               |
 | ------------------ | ------------------------------------------ | ----------------------------------------------------- |
-| ✨[Added]:         | Add New Feature or Something               | `✨[Added]: module/counter: counterSlice: Btns `      |
+| ✨[Added]:         | Add New Feature or Something               | ```✨[Added]: module/counter: counterSlice: Btns ```      |
 | ✅[Updated]:       | Updated Feature or Something               | ✅[Updated]:module/counter: counterSlice: update Btns |
 | 🐛[Fix]:           | Fixed a Bug                                | 🐛[Fix]: module/counter: counterSlice: fix counting   |
 | 💄[UI]:            | Update UI                                  | Update UI                                             |
