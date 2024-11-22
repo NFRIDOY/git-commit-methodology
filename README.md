@@ -40,18 +40,18 @@ Example:
 
 ## Icon Rules Table Format:
 
-| Icon Type          | Description                                | Example                                               |
-| ------------------ | ------------------------------------------ | ----------------------------------------------------- |
-| ✨[Added]:         | Add New Feature or Something               | ```✨[Added]: module/counter: counterSlice: Btns ```      |
-| ✅[Updated]:       | Updated Feature or Something               | ✅[Updated]:module/counter: counterSlice: update Btns |
-| 🐛[Fix]:           | Fixed a Bug                                | 🐛[Fix]: module/counter: counterSlice: fix counting   |
-| 💄[UI]:            | Update UI                                  | Update UI                                             |
-| 🚧[Processing]:    | Feature or Something in under construction | Feature or Something in under construction            |
-| 🚨[Error]:         | Error in Code So be warning                | Feature or Something in under construction            |
-| 🔥[Remove]:        | Remove code or files.                      | Feature or Something in under construction            |
-| ⚡️[Improve]:      | Improve performance or better Code         | Feature or Something in under construction            |
-| 🔧[Config]:        | Configurate project of Somting             | Feature or Something in under construction            |
-| ✏️[Fix]:           | Fix Typo Or Rename Sonthing                | Feature or Something in under construction            |
-| ♻️[Refactor]:      | Code Refactor                              | Feature or Something in under construction            |
-| 📝[Documentation]: | Code Refactor                              | Feature or Something in under construction            |
-| 🚀[Deploy]:        | Deploy                                     | Deploy                                                |
+| Icon Type          | Description                                | Example                                                |
+| ------------------ | ------------------------------------------ | ------------------------------------------------------ |
+| ✨[Added]:         | Add New Feature or Something               | ✨[Added]: module/auth: Added login functionality      |
+| ✅[Updated]:       | Updated Feature or Something               | ✅[Updated]: module/ui: Updated button styles          |
+| 🐛[Fix]:           | Fixed a Bug                                | 🐛[Fix]: module/cart: Fixed item count calculation     |
+| 💄[UI]:            | Update UI                                  | 💄[UI]: module/header: Redesigned navigation bar       |
+| 🚧[Processing]:    | Feature or Something under construction    | 🚧[Processing]: module/orders: Building order history  |
+| 🚨[Error]:         | Error in Code So be warning                | 🚨[Error]: module/api: Unhandled exception resolved    |
+| 🔥[Remove]:        | Remove code or files.                      | 🔥[Remove]: module/legacy: Removed old API endpoints   |
+| ⚡️[Improve]:      | Improve performance or better Code         | ⚡️[Improve]: module/db: Optimized query execution      |
+| 🔧[Config]:        | Configurate project of Something           | 🔧[Config]: module/setup: Configured ESLint rules      |
+| ✏️[Fix]:           | Fix Typo Or Rename Something               | ✏️[Fix]: module/readme: Fixed typo in documentation    |
+| ♻️[Refactor]:      | Code Refactor                              | ♻️[Refactor]: module/auth: Refactored login logic      |
+| 📝[Documentation]: | Update Documentation                      | 📝[Documentation]: module/api: Added API usage guide  |
+| 🚀[Deploy]:        | Deploy                                     | 🚀[Deploy]: project: Deployed version 1.0.0 to production |
