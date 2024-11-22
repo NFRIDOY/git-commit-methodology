@@ -105,7 +105,115 @@ Example:
 🚀[Deploy]: project: Deployed version 1.0.0 to production
 ```
 ---
-## Icon Rules Table Format:
+Here’s the revised format:
+
+---
+
+**✨[Added]:**  
+```
+✨[Added]: 
+```  
+```
+✨[Added]: module/counter: Added counterSlice buttons
+```
+
+**✅[Updated]:**  
+```
+✅[Updated]: 
+```  
+```
+✅[Updated]: module/counter: Updated counterSlice buttons
+```
+
+**🐛[Fix]:**  
+```
+🐛[Fix]: 
+```  
+```
+🐛[Fix]: module/counter: Fixed counting logic in counterSlice
+```
+
+**💄[UI]:**  
+```
+💄[UI]: 
+```  
+```
+💄[UI]: module/header: Redesigned navigation bar
+```
+
+**🚧[Processing]:**  
+```
+🚧[Processing]: 
+```  
+```
+🚧[Processing]: module/orders: Working on order history
+```
+
+**🚨[Error]:**  
+```
+🚨[Error]: 
+```  
+```
+🚨[Error]: module/api: Resolved unhandled exception
+```
+
+**🔥[Remove]:**  
+```
+🔥[Remove]: 
+```  
+```
+🔥[Remove]: module/legacy: Removed deprecated files
+```
+
+**⚡️[Improve]:**  
+```
+⚡️[Improve]: 
+```  
+```
+⚡️[Improve]: module/db: Optimized database queries
+```
+
+**🔧[Config]:**  
+```
+🔧[Config]: 
+```  
+```
+🔧[Config]: project/setup: Configured Babel settings
+```
+
+**✏️[Fix]:**  
+```
+✏️[Fix]: 
+```  
+```
+✏️[Fix]: docs/readme: Fixed typo in instructions
+```
+
+**♻️[Refactor]:**  
+```
+♻️[Refactor]: 
+```  
+```
+♻️[Refactor]: module/auth: Refactored login flow
+```
+
+**📝[Documentation]:**  
+```
+📝[Documentation]: 
+```  
+```
+📝[Documentation]: module/api: Updated API usage guide
+```
+
+**🚀[Deploy]:**  
+```
+🚀[Deploy]: 
+```  
+```
+🚀[Deploy]: project: Deployed version 1.0.0 to production
+```
+---
+## Icon Rules & Description in Table Format:
 
 | Icon Type          | Description                                | Example                                                |
 | ------------------ | ------------------------------------------ | ------------------------------------------------------ |
