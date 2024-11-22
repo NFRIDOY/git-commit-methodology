@@ -38,6 +38,73 @@ Example:
 | 📝[Documentation]: | `📝[Documentation]: module/api: Updated API usage guide` |
 | 🚀[Deploy]:        | `🚀[Deploy]: project: Deployed version 1.0.0 to production` |
 
+---
+
+**✨[Added]:**  
+```
+✨[Added]: module/counter: Added counterSlice buttons
+```
+
+**✅[Updated]:**  
+```
+✅[Updated]: module/counter: Updated counterSlice buttons
+```
+
+**🐛[Fix]:**  
+```
+🐛[Fix]: module/counter: Fixed counting logic in counterSlice
+```
+
+**💄[UI]:**  
+```
+💄[UI]: module/header: Redesigned navigation bar
+```
+
+**🚧[Processing]:**  
+```
+🚧[Processing]: module/orders: Working on order history
+```
+
+**🚨[Error]:**  
+```
+🚨[Error]: module/api: Resolved unhandled exception
+```
+
+**🔥[Remove]:**  
+```
+🔥[Remove]: module/legacy: Removed deprecated files
+```
+
+**⚡️[Improve]:**  
+```
+⚡️[Improve]: module/db: Optimized
+```
+
+**🔧[Config]:**  
+```
+🔧[Config]: project/setup: Configured Babel settings
+```
+
+**✏️[Fix]:**  
+```
+✏️[Fix]: docs/readme: Fixed typo in instructions
+```
+
+**♻️[Refactor]:**  
+```
+♻️[Refactor]: module/auth: Refactored login flow
+```
+
+**📝[Documentation]:**  
+```
+📝[Documentation]: module/api: Updated API usage guide
+```
+
+**🚀[Deploy]:**  
+```
+🚀[Deploy]: project: Deployed version 1.0.0 to production
+```
+---
 ## Icon Rules Table Format:
 
 | Icon Type          | Description                                | Example                                                |
